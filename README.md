@@ -36,15 +36,14 @@ ____________________
 </p>
 </p>
 <p align="center">
-<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-PAPAIGWE.Chandra-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-PAPAIGWE.TECH-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center"> 
 <u>🎯 EVO-ＭＤ V4 🎯</u>
 </p>
 
-[🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
 
-[💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
+[💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 channel  💞](https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j)
 
 
 ____________________
@@ -66,13 +65,13 @@ ____________________
 
 ## Get Season File 👇
   
-<a href='https://replit.com/@slsachith93/oror?v=1' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://sessi-id-by-igwe-tech.onrender.com/oror?v=1' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ____________________
 
 ## Deploy Heroku 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com)
 
 ____________________
 
