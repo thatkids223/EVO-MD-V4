@@ -1,8 +1,8 @@
 {
-  "name": "CYBER-PANDA-MD",
+  "name": "EVO-MD-V4",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4",
-  "logo": "https://imgur.com/a/uADuUzv",
+  "repository": "https://github.com/papaigwe/EVO-MD-V4",
+  "logo": "https://i.imgur.com/IeJNaJp.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
