@@ -6700,8 +6700,8 @@ _Click the button below to download_`
 ❒│▸  *Oᴡɴᴇʀ : ${global.OwnerName}* 🙋
 ❒│▸  *Pʀᴇꜰɪx : 『  ${prefix} 』*  💡
 ❒│▸  *Rᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}* 💻
-❒│▸  *Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Mʀ Sᴀᴄʜɪᴛʜ* 
-┬│   *ᴄʏʙᴇʀ-ᴘᴀɴᴅᴀ-ᴍᴅ*
+❒│▸  *Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ PAPAIGWE❤️‍🔥🦄* 
+┬│   *EVO-ᴍᴅ V4*
 │╰───────────···▸▸
 └──────────────···▸▸▸
 ┌──『•• 🎯 *ᴀʟʟᴍᴇɴᴜ* 🎯 ••』──◈
