@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+24160338758", "+24160338758"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+24160338758", "+24160338758"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+24160338758"];
-global.OwnerName = "PAPAIGWE";
+global.Owner = ["+22395064497"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+22395064497"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+22395064497"];
+global.OwnerName = "᥇᭙ꪖ᥇ꪗ☄︎";
 global.BotName = "PAPAIGWE";
 global.packname = "EVO│𝐌𝐃│𝐕4";                             //Do not change.
-global.author = "PAPAIGWE";                               //Do not change.
+global.author = "᥇᭙ꪖ᥇ꪗ☄︎";                               //Do not change.
 global.BotSourceCode = "https://github.com/papaigwe"; //Do not change.
 global.SupportGroupLink = "https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j";
 
